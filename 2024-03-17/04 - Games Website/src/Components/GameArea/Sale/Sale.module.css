@@ -1,0 +1,14 @@
+/* CSS Module */
+
+.beautiful {
+    color: darkmagenta;
+    background-color: lightcyan;
+    border: 1px solid;
+}
+
+.container {
+    display: inline-block;
+    border: 1px solid green;
+    margin: 10px;
+    padding: 10px;
+}

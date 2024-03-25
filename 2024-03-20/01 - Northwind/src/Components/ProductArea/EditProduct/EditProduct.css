@@ -1,0 +1,5 @@
+.EditProduct img {
+	position: absolute;
+    width: 50px;
+    transform: translate(-50px, -10px);
+}
